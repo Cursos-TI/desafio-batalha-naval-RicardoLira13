@@ -1,5 +1,6 @@
 {
     "githubPullRequests.ignoredPullRequestBranches": [
         "main"
-    ]
+    ],
+    "workbench.preferredLightColorTheme": "VS Code Dark"
 }
