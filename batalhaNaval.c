@@ -96,10 +96,9 @@ int main(){
 			tabuleiro[linha][coluna] = 3;
 			tabuleiro[linha + 1][coluna] = 3;
 			tabuleiro[linha + 2][coluna] = 3;
-		}	
+		}
+		valido = 1;	
 	}
-		
-    valido = 1;
 }
 
 	//print do tabuleiro
